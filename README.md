@@ -1,6 +1,7 @@
 <h2 align="left">Hi 👋! I'm Sohan Kumar Nayak</h2>
 <p align="left">
-  A <strong>Flutter & Dart Developer</strong> from India.<br>
+  A <strong>Flutter & Dart Developer</strong> from <strong>Bhubaneswar, India</strong>.<br>
+  Currently pursuing my studies at <strong>KIIT University, Bhubaneswar</strong>.<br>
   Building scalable mobile apps with <strong>Supabase, MySQL, and MongoDB</strong>.<br>
   Basics in <strong>Java, Python, C, and C++</strong>.
 </p>
@@ -33,7 +34,7 @@
 ### 💬 About Me
 <p align="left">
   <strong>
-    <a href="https://github.com/yourusername" target="_blank">
+    <a href="https://github.com/sohankumar17" target="_blank">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=00F0FF&width=450&lines=Flutter+Developer;Supabase+Backend;Database+Enthusiast" />
     </a>
   </strong>
@@ -41,29 +42,31 @@
 
 ---
 
-### 📊 My Skills
+### 📊 Skills (Animated Circles)
 
-**Flutter & Dart**  
-![Flutter](https://progress-bar.dev/90/?title=Flutter)  
-
-**Supabase / Backend**  
-![Supabase](https://progress-bar.dev/80/?title=Supabase)  
-
-**MySQL & MongoDB**  
-![Databases](https://progress-bar.dev/75/?title=Databases)  
-
-**Python & Java Basics**  
-![Python](https://progress-bar.dev/70/?title=Python+Java)  
-
-**C & C++ Basics**  
-![C++](https://progress-bar.dev/60/?title=C++)
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-70%25-blue?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-70%25-blue?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-70%25-2EC4B6?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-80%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-80%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-90%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-75%25-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-85%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
 
 ---
 
 ### 🌱 Currently Learning
 - Advanced Flutter Animations & State Management  
-- Kubernetes & Docker for mobile backend scaling  
+- Kubernetes & Docker for backend scaling  
 - Cloud Functions & Edge Computing with Supabase  
+
+---
+
+### 🎯 Fun Fact / Hobbies
+- I love exploring **new tech and frameworks**  
+- Enjoy **gaming, anime, and music**, also love to **play sports**  
 
 ---
 
@@ -75,7 +78,7 @@
   <a href="https://www.linkedin.com/in/yourprofile/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/sohankumar17">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" />
   </a>
 </div>
@@ -83,19 +86,18 @@
 ---
 
 ### 📊 GitHub Stats
-![Sohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&hide=html,css&layout=compact&theme=radical)
+![Sohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohankumar17&show_icons=true&theme=radical) 
 
 ---
 
 ### 👀 Visitors
-![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/sohankumar17/count.svg)
 
 ---
 
 ### 💻 Projects
-- **Flutter Mobile Apps** with Supabase backend (Auth, Realtime DB, Storage)  
+- **Flutter Mobile Apps** with Supabase backend (Auth, Realtime DB, Storage)  example: ECOMMERCE 
 - **CRUD Applications** using MySQL & MongoDB  
-- **Real-time Chat & Data Apps** with Supabase Realtime  
+- **UI UX CREATION
 
-*(Add GitHub repo links here)*
+

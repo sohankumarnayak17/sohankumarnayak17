@@ -1,119 +1,196 @@
-<h1 align="center">Hey 👋, I'm Sohan Kumar Nayak</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&color=00F0FF&center=true&width=600&lines=Flutter+%26+Dart+Developer;AI+%26+Voice+Assistant+Builder;Database+Enthusiast;KIIT+University+%7C+Bhubaneswar" />
-</p>
+<!-- 90s ASCII Banner -->
+<pre>
+╔══════════════════════════════════════════════════════════════╗
+║  ░██████╗░█████╗░██╗  ██╗  ██╗ █████╗ ███╗  ██╗            ║
+║  ██╔════╝██╔══██╗██║  ██║  ██║██╔══██╗████╗ ██║            ║
+║  ╚█████╗ ██║  ██║██████████████║  ██║██╔██╗██║            ║
+║  ░╚═══██╗██║  ██║██╔══██╔══██║██╔══██║██║╚████║            ║
+║  ██████╔╝╚█████╔╝██║  ██║  ████║  ████║  ╚███║            ║
+║  ╚═════╝  ╚════╝ ╚═╝  ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚══╝           ║
+║                                                              ║
+║     [ KUMAR NAYAK ] ░ SYSTEM ONLINE ░ KIIT BHUBANESWAR      ║
+╚══════════════════════════════════════════════════════════════╝
+</pre>
 
-<img align="right" height="150" src="https://tenor.com/gTWhQuVyJPK.gif" />
+<img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=28&color=00FF41&center=true&width=600&lines=INITIALIZING+DEVELOPER+PROFILE...;FLUTTER+%26+DART+%3A%3A+LOADED+%E2%9C%93;PYTHON+AI+ENGINE+%3A%3A+ACTIVE+%E2%9C%93;READY+FOR+DEPLOYMENT+%3A%3A+%5BYES%5D" />
 
----
-
-### 🧑‍💻 About Me
-
-- 🎓 Pursuing B.Tech at **KIIT University, Bhubaneswar**
-- 📱 Building scalable mobile apps with **Flutter & Dart**
-- 🗄️ Backend with **Supabase, MySQL, and MongoDB**
-- 🤖 Currently building **A.P.E.X** — an AI Voice Assistant in Python
-- 💡 Basics in **Java, Python, C, and C++**
-
----
-
-### 🛠️ Tech Stack
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="35" alt="Flutter" title="Flutter"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="35" alt="Dart" title="Dart"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python" title="Python"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="Java" title="Java"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="C++" title="C++"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="MySQL" title="MySQL"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="MongoDB" title="MongoDB"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="Figma" title="Figma"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="35" alt="SQLite" title="SQLite"/>
 </div>
 
 ---
 
-### 📊 Skill Level
-
-| Skill | Level |
-|---|---|
-| Flutter & Dart | ![](https://img.shields.io/badge/70%25-blue?style=flat-square) |
-| Python | ![](https://img.shields.io/badge/90%25-3776AB?style=flat-square) |
-| MySQL & MongoDB | ![](https://img.shields.io/badge/80%25-green?style=flat-square) |
-| C++ | ![](https://img.shields.io/badge/85%25-00599C?style=flat-square) |
-| Java | ![](https://img.shields.io/badge/75%25-orange?style=flat-square) |
-| Supabase | ![](https://img.shields.io/badge/70%25-2EC4B6?style=flat-square) |
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [A.P.E.X](https://github.com/sohankumarnayak17/A.P.E.X-AI-ASSISTANT) | AI Voice Assistant with voice commands, app control & WhatsApp integration | Python, Eel, SQLite |
-| Flutter E-Commerce | Full-stack mobile app with auth, cart & payments | Flutter, Supabase |
-| CRUD Apps | Database-driven applications | MySQL, MongoDB |
+```
+┌─────────────────────────────────────────────────────┐
+│  C:\USERS\SOHAN> whoami                             │
+│  > B.Tech CSE @ KIIT University, Bhubaneswar        │
+│  > Flutter & Dart Developer                         │
+│  > AI Voice Assistant Builder (APEX)                │
+│  > Backend: Supabase · MySQL · MongoDB · Firebase   │
+│  > Currently building: APEX AI + Aurox Finance App  │
+│  > Status: AVAILABLE FOR INTERNSHIPS                │
+└─────────────────────────────────────────────────────┘
+```
 
 ---
 
-### 🌱 Currently Learning
+<div align="center">
 
-- Advanced Flutter Animations & State Management
-- AI & Voice Recognition with Python
-- Kubernetes & Docker for backend scaling
-- Cloud Functions with Supabase
+## ▓▓▓ TECH STACK ▓▓▓
 
----
+</div>
 
-### 🎯 Hobbies
+```
+╔═══════════════════════════════════════════════════════╗
+║  PRIMARY WEAPONS                                      ║
+╠═══════════════════════════════════════════════════════╣
+║  [█████████░]  Flutter & Dart      ░░ LEVEL 7 / 10   ║
+║  [██████████]  Python              ░░ LEVEL 9 / 10   ║
+║  [████████░░]  C++                 ░░ LEVEL 8 / 10   ║
+║  [███████░░░]  Java                ░░ LEVEL 7 / 10   ║
+╠═══════════════════════════════════════════════════════╣
+║  DATABASES                                            ║
+╠═══════════════════════════════════════════════════════╣
+║  [████████░░]  MySQL · MongoDB     ░░ LEVEL 8 / 10   ║
+║  [███████░░░]  Firebase · Supabase ░░ LEVEL 7 / 10   ║
+║  [██████░░░░]  SQLite              ░░ LEVEL 6 / 10   ║
+╠═══════════════════════════════════════════════════════╣
+║  TOOLS                                                ║
+╠═══════════════════════════════════════════════════════╣
+║  [████████░░]  Git · GitHub        ░░ LEVEL 8 / 10   ║
+║  [████████░░]  Adobe Premiere Pro  ░░ LEVEL 8 / 10   ║
+║  [███████░░░]  After Effects       ░░ LEVEL 7 / 10   ║
+╚═══════════════════════════════════════════════════════╝
+```
 
-- 🎮 Gaming & Anime
-- 🎵 Music
-- ⚽ Sports
-- 🔧 Building cool tech projects
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohankumarnayak17&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohankumarnayak17&layout=compact&theme=radical&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohankumarnayak17&theme=radical&hide_border=true" />
-</p>
-
----
-
-### 📫 Connect With Me
-
-<div align="left">
-  <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sohankumarnayak17/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
-  </a>
-  <a href="https://github.com/sohankumarnayak17">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35"/>
-  </a>
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
 </div>
 
 ---
 
-### 👀 Visitors
+<div align="center">
 
-<p align="left">
-  <img src="https://profile-counter.glitch.me/sohankumarnayak17/count.svg" />
-</p>
+## ▓▓▓ FEATURED PROJECTS ▓▓▓
+
+</div>
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  PROJECT LOG :: SOHAN KUMAR NAYAK                           │
+├──────────────────────────┬──────────────────────────────────┤
+│  PROJECT NAME            │  STATUS                          │
+├──────────────────────────┼──────────────────────────────────┤
+│  ► A.P.E.X               │  [IN PROGRESS] ████████░░ 80%   │
+│    AI Voice Assistant    │  Python · Eel · SQLite           │
+│    Voice cmds · App ctrl │  SpeechRecog · pyttsx3           │
+├──────────────────────────┼──────────────────────────────────┤
+│  ► AUROX                 │  [LIVE] ██████████ 100%          │
+│    Finance Budget App    │  Flutter · Firebase              │
+│    Track · Plan · Sync   │  Firestore · fl_chart            │
+├──────────────────────────┼──────────────────────────────────┤
+│  MORE PROJECTS...        │  github.com/sohankumarnayak17    │
+└──────────────────────────┴──────────────────────────────────┘
+```
+
+---
+
+<div align="center">
+
+## ▓▓▓ EXPERIENCE.LOG ▓▓▓
+
+</div>
+
+```
+>> loading experience_log.txt ...
+
+[2023–PRESENT] ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+  ROLE    : Video Editor & Content Creator
+  COMPANY : Donum — Gifting Brand (Freelance)
+  TOOLS   : Adobe Premiere Pro · After Effects
+  OUTPUT  : Brand videos · Social media campaigns
+
+[2024–PRESENT] ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+  ROLE    : App Developer Member
+  COMPANY : K1000 Tech — University Tech Society
+  STACK   : Flutter · Dart
+  OUTPUT  : Mobile app features · Collaboration
+
+[2025–PRESENT] ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+  ROLE    : Videographer
+  COMPANY : GeeksForGeeks KIIT Student Chapter
+  OUTPUT  : 10+ event recap videos · Instagram content
+
+>> EOF
+```
+
+---
+
+<div align="center">
+
+## ▓▓▓ CURRENTLY LOADING ▓▓▓
+
+</div>
+
+```
+DOWNLOADING SKILLS...
+
+  Advanced Flutter Animations   [████████░░]  78%
+  AI & Voice Recognition        [███████░░░]  68%
+  Open Source Contributions     [█████░░░░░]  50%  ← GSSoC 2026
+  Docker & Kubernetes           [████░░░░░░]  40%
+  Cloud Functions (Supabase)    [█████░░░░░]  52%
+```
+
+---
+
+<div align="center">
+
+## ▓▓▓ SYSTEM STATS ▓▓▓
+
+<img src="https://github-readme-stats.vercel.app/api?username=sohankumarnayak17&show_icons=true&theme=chartreuse-dark&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=00FF41&bg_color=0d0d0d" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohankumarnayak17&layout=compact&theme=chartreuse-dark&hide_border=true&title_color=00FF41&text_color=00FF41&bg_color=0d0d0d" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sohankumarnayak17&theme=dark&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41" />
+
+</div>
+
+---
+
+<div align="center">
+
+## ▓▓▓ ESTABLISH CONNECTION ▓▓▓
+
+```
+TRANSMISSION PROTOCOLS AVAILABLE:
+```
+
+[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohankumarnayak17/)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sohankumarnayak17)
+
+---
+
+```
+╔═══════════════════════════════════════════════════╗
+║                                                   ║
+║   VISITORS LOGGED:                                ║
+║                                                   ║
+╚═══════════════════════════════════════════════════╝
+```
+
+<img src="https://profile-counter.glitch.me/sohankumarnayak17/count.svg" />
+
+```
+[ SESSION TERMINATED ] ░░ PRESS ANY KEY TO CONTINUE ░░
+```
+
+</div>

@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=SOHAN%20KUMAR%20NAYAK&fontSize=48&color=0:00ff41,100:00b4d8&fontColor=ffffff&animation=fadeIn&stroke=00ff41&strokeWidth=1" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=72&duration=3000&pause=1000&color=00FF41&center=true&width=700&lines=SOHAN+KUMAR+NAYAK" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2000&pause=500&color=00FF41&center=true&width=700&lines=%3E+INITIALIZING+DEVELOPER+PROFILE...;%3E+FLUTTER+%26+DART+%3A%3A+LOADED+%5BOK%5D;%3E+PYTHON+AI+ENGINE+%3A%3A+ACTIVE+%5BOK%5D;%3E+DATABASES+%3A%3A+FIREBASE+%7C+SUPABASE+%7C+MYSQL;%3E+STATUS+%3A%3A+AVAILABLE+FOR+INTERNSHIP+%5BYES%5D;%3E+MISSION+%3A%3A+BUILD.+SHIP.+REPEAT." />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=2000&pause=500&color=00FF41&center=true&width=700&lines=%3E+INITIALIZING+DEVELOPER+PROFILE...;%3E+FLUTTER+%26+DART+%3A%3A+LOADED+%5BOK%5D;%3E+PYTHON+AI+ENGINE+%3A%3A+ACTIVE+%5BOK%5D;%3E+DATABASES+%3A%3A+FIREBASE+%7C+SUPABASE+%7C+MYSQL;%3E+STATUS+%3A%3A+AVAILABLE+FOR+INTERNSHIP+%5BYES%5D;%3E+MISSION+%3A%3A+BUILD.+SHIP.+REPEAT." />
 
 </div>
 
@@ -11,14 +11,13 @@
 ```zsh
 ┌──(sohan㉿kiit)-[~/developer]
 │
-├─▶  whoami           →  B.Tech CSE · KIIT University · Bhubaneswar
-├─▶  primary_stack    →  Flutter · Dart · Python
-├─▶  ai_project       →  A.P.E.X — Voice Assistant [IN PROGRESS]
-├─▶  latest_app       →  Aurox — Finance App [LIVE]
-├─▶  backend          →  Firebase · Supabase · MySQL · MongoDB
-├─▶  creative_mode    →  Adobe Premiere Pro · After Effects
-├─▶  open_source      →  GSSoC 2026 Contributor
-└─▶  hire_me          →  INTERNSHIP READY ██████████ YES
+├─▶  whoami        →  B.Tech CSE · KIIT University · Bhubaneswar
+├─▶  stack         →  Flutter · Dart · Python
+├─▶  ai_project    →  A.P.E.X — Voice Assistant [IN PROGRESS]
+├─▶  latest_app    →  Aurox — Finance App [LIVE]
+├─▶  backend       →  Firebase · Supabase · MySQL · MongoDB
+├─▶  open_source   →  GSSoC 2026 Contributor
+└─▶  hire_me       →  INTERNSHIP READY ██████████ YES
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -126,12 +125,14 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sohankumarnayak17&show_icons=true&theme=matrix&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohankumarnayak17&layout=compact&theme=matrix&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" height="170"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sohankumarnayak17&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohankumarnayak17&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sohankumarnayak17&theme=matrix&hide_border=true&background=0d1117&ring=00ff41&fire=00b4d8&currStreakLabel=00ff41&sideLabels=00ff41&dates=c9d1d9" width="600"/>
+</div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sohankumarnayak17&bg_color=0d1117&color=00ff41&line=00ff41&point=00b4d8&area=true&hide_border=true" width="100%"/>
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sohankumarnayak17&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00B4D8&currStreakLabel=00FF41&sideLabels=00FF41&dates=8b949e&currStreakNum=00ff41&sideNums=c9d1d9" width="49%"/>
 
 </div>
 
@@ -141,7 +142,7 @@
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.sohankumarnayak3580@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohankumarnayak17/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sohankumarnayak17)
 
@@ -149,8 +150,10 @@
 
 <img src="https://profile-counter.glitch.me/sohankumarnayak17/count.svg" />
 
-<br/><br/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:00b4d8&height=120&section=footer&animation=fadeIn&fontColor=ffffff&fontSize=16&text=BUILD.%20SHIP.%20REPEAT." width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:00b4d8&height=120&section=footer&text=BUILD.%20SHIP.%20REPEAT.&fontSize=18&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </div>
